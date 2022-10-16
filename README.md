@@ -1,4 +1,5 @@
-## 个人网站
-个人网站，技术：
+## Personal Website
+This is a website about me.
+Tecs includes:
 - HTML
 - CSS
